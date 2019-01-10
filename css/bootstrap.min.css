@@ -11,11 +11,3 @@ img {
     max-width: 100%;
     height: auto;
   }
-
-.headshot {
-    max-width: 250px;
-    display: block;
-    height: auto;
-    margin-right: 15px;
-}
-
